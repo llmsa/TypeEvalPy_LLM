@@ -1,0 +1,29 @@
+[
+    {
+        "file": "identity.py",
+        "line_number": 21,
+        "col_offset": 1,
+        "variable": "result",
+        "type": [
+            "int"
+        ]
+    },
+    {
+        "file": "identity.py",
+        "line_number": 24,
+        "col_offset": 1,
+        "variable": "result",
+        "type": [
+            "str"
+        ]
+    },
+    {
+        "file": "identity.py",
+        "line_number": 27,
+        "col_offset": 1,
+        "variable": "result",
+        "type": [
+            "float"
+        ]
+    }
+]

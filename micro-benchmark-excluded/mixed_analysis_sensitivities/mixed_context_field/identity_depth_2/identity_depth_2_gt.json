@@ -1,0 +1,20 @@
+[
+    {
+        "file": "identity_depth_2.py",
+        "line_number": 28,
+        "col_offset": 1,
+        "variable": "result1",
+        "type": [
+            "int"
+        ]
+    },
+    {
+        "file": "identity_depth_2.py",
+        "line_number": 29,
+        "col_offset": 1,
+        "variable": "result2",
+        "type": [
+            "str"
+        ]
+    }
+]

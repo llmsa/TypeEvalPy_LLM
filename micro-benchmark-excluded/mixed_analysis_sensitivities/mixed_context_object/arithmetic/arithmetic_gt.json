@@ -1,0 +1,22 @@
+[
+    {
+        "file": "arithmetic.py",
+        "line_number": 20,
+        "col_offset": 1,
+        "function": "arithmetic_op",
+        "variable": "result1",
+        "type": [
+            "int"
+        ]
+    },
+    {
+        "file": "arithmetic.py",
+        "line_number": 24,
+        "col_offset": 1,
+        "function": "arithmetic_op",
+        "variable": "result2",
+        "type": [
+            "str"
+        ]
+    }
+]
